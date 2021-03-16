@@ -1,0 +1,18 @@
+.calc {
+    margin: 0 auto;
+    width: 300px;
+    height: 400px;
+    border: 1px solid red;
+    border-radius: 15px;
+}
+.calc-inner {
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.key-pad button {
+    margin: 10px;
+    padding: 5px;
+
+}
